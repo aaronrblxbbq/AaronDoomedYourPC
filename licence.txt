@@ -1,0 +1,6 @@
+Copyright Aaronrblxbbq
+
+I am Not responsible for any damage what my program makes. If you agree to "install" my program, it will make your device vurnerable to threats. I know you may be thinking that i will disable real time protection. I don't. I only disable UAC, Command Prompt and Task Manager. You can Cancel the changes using CancelChanges.exe.
+Remember, I am not responsible for any damage. Btw My program Uses registry, and will not overwrite mbr.
+
+This is the last warning.
