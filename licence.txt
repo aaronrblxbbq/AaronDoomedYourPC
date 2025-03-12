@@ -1,4 +1,0 @@
-Copyright AaronSeesClouds.
-
-Few words to say.
-I am not responsible, if this program will damage your device. This program will not destroy mbr etc but uses registry. Be careful.
